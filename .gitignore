@@ -1,0 +1,12 @@
+/lib
+/__pycache__
+/model-best
+/venv
+dataprocess_utils_copy.py
+query_copy.py
+net.html
+test2.py
+/BioRED
+model_responses.txt
+model_responses_1.txt
+output.txt

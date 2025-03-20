@@ -1,0 +1,5 @@
+dataset
+langchain
+langchain-community
+chromadb
+scikit-learn
